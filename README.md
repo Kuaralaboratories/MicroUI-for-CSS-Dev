@@ -3,9 +3,9 @@ This repo will contain about MicroUI usage for Kuaralabs and Open-Source Develop
 
 - [x] MicroUI for CSS Developers article has been writed but need for images about layouts.
 - [x] Usage of MicroUI added, this article comes from official repo of MicroUI.
-- [ ] MicroUI Usage With and Without SDL article needed.
-- [ ] MicroUI for Porting and Using for Cross-platform Apps article needed.
-- [ ] Your First "Hello Window!" at MicroUI article needed.
-- [ ] MicroUI for Your Open-Source Project article needed.
+- [x] MicroUI Usage With and Without SDL article needed.
+- [x] MicroUI for Porting and Using for Cross-platform Apps article needed.
+- [x] Your First "Hello Window!" at MicroUI article needed.
+- [x] MicroUI for Your Open-Source Project article needed.
 
 Credit: [RXI](https://github.com/rxi)
