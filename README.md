@@ -5,3 +5,5 @@ This repo will contain about MicroUI usage for Kuaralabs and Open-Source Develop
 - [ ] MicroUI Usage With and Without SDL article needed.
 - [ ] MicroUI for Porting and Using for Cross-platform Apps article needed.
 - [ ] Your First "Hello Window!" at MicroUI article needed.
+
+Credit: [RXI](https://github.com/rxi)
